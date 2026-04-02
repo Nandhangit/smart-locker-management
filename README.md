@@ -277,8 +277,8 @@ This project is built as part of an internship assignment for **Popkey Private L
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Email: your@email.com
+- GitHub: https://github.com/Nandhangit
+- Email: snandhan825@email.com
 
 ---
 
